@@ -1,0 +1,11 @@
+.aligns{
+    display: flex;
+    justify-content: space-between;
+     
+  }
+  .title{
+    color: blue;
+    font-size: 1.5rem;
+    margin-left: 45px;
+    margin-bottom: 9px;
+}

@@ -1,0 +1,9 @@
+#nav{
+   display: flex;
+   justify-content: flex-end;
+    
+}
+#manage{
+    width: 85%;
+    margin-left: 80px;
+}

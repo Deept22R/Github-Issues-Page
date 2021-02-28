@@ -1,0 +1,19 @@
+#ul{
+    list-style: none;
+    margin-top: 10px;
+}
+.list{
+    border: solid 0.5px;
+    height: 70px;
+    padding-top: 15px;
+    width: 87.5%;
+    margin-left: 39px;
+}
+.list:nth-child(odd) { background: #ffffff; }
+.list:nth-child(even) { background: #80808030; }
+
+.badge{
+    color: rgb(230, 86, 86);
+    background-color: rgb(211, 186, 186);
+}
+
